@@ -62,6 +62,6 @@ Liga de Cartola FC entre amigos com site próprio (parciais ao vivo, estatístic
 ## Formação
 
 - **Ciência da Computação**, Unisinos (em andamento)
-- **Engenharia de Software**, FIAP Nano Course (120 h)
+- **Engenharia de Software**, FIAP Nano Course (100 h)
 - **Inteligência Artificial e Computacional**, FIAP Nano Course (60 h)
 - **Chatbots**, FIAP Nano Course (60 h)
