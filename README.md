@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Guilherme Matzembacker, estudante de Ciência da Computação" width="100%">
+<img src="assets/banner-v2.png" alt="Guilherme Matzembacker" width="100%">
 
 Estudante de **Ciência da Computação na Unisinos**. Faço jogos, bots e sites completos, do banco de dados à interface: um simulador geopolítico em JavaScript, um jogo de técnico de futebol em Java e bots em Python usados todos os dias por comunidades no Discord.
 
