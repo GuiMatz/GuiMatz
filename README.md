@@ -64,4 +64,4 @@ Liga de Cartola FC entre amigos com site próprio (parciais ao vivo, estatístic
 - **Ciência da Computação**, Unisinos (em andamento)
 - **Engenharia de Software**, FIAP Nano Course (em andamento)
 - **Inteligência Artificial e Computacional**, FIAP Nano Course (60 h)
-- **Claude Code 101**, Claude Academy
+- **Claude Code 101**, Anthropic · Claude Academy (nov. 2026)
