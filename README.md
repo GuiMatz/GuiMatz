@@ -44,13 +44,21 @@ Bot de comunidade para Discord: rankings, perfis, níveis, patentes, tags e retr
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/GuiMatz/premier-league-ios-site"><img src="assets/premier-league-ios.gif" alt="Navegação pelo site da Premier League IOS" width="100%"></a>
 
 ### Premier League IOS: [site](https://github.com/GuiMatz/premier-league-ios-site) + [bot](https://github.com/GuiMatz/premier-league-ios-bot)
 Liga de Cartola FC entre amigos com site próprio (parciais ao vivo, estatísticas, times e história desde 2023) e um bot que processa as rodadas e publica os dados que o site consome.
 
 `JavaScript` `Vercel` `Python` `discord.py`
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/GuiMatz/pulsewv"><img src="assets/pulsewv.gif" alt="PulseWV: visualizer reagindo à música" width="100%"></a>
+
+### [PulseWV](https://github.com/GuiMatz/pulsewv)
+Visualizer de música no navegador: arquivo, link do YouTube ou microfone viram um vídeo animado, com 11 estilos prontos, camadas e efeitos, e exportação em MP4 até 4K.
+
+`JavaScript` `Canvas` `Web Audio` `WebCodecs`
 </td>
 </tr>
 </table>
